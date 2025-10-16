@@ -1,0 +1,23 @@
+# 🧮 Modern Calculator
+
+### 🔗 Live Demo
+[modern-calculator-ap-t8na.bolt.host](https://modern-calculator-ap-t8na.bolt.host/)
+[modern_calculator_base44](https://nova-calc-01339b1d.base44.app/)
+
+### 📘 Overview
+A simple yet powerful calculator application built with **Python** as the backend and a **responsive frontend**.  
+Performs addition, subtraction, multiplication, division, and exponentiation.
+
+### ⚙️ Tech Stack
+- Python
+-Prompt Engineering
+-Bolt,Base44
+- Hosting: Bolt Host, Base44 Host
+
+### 💡 Features
+- Clean UI for quick calculations  
+- Handles division by zero and invalid input  
+- Deployed online for public use  
+
+### 👨‍💻 Developer
+Developed by [Your Name](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
